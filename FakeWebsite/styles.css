@@ -1,29 +1,33 @@
-body { font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
-    font-style: italic;
-    background-image: url(/FakeWebsite/images/BG.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-  h1 {position: absolute;
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-style: italic;
+  background-image: url(/FakeWebsite/images/BG.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  position: absolute;
   bottom: 82%;
   right: 35%;
-  }
-  h2 {position: absolute;
-      bottom: 81%;
-      right: 1%;
-  }
-  p {position: absolute;
-    top: 40%;
-    right: 1%;
-  }
-  h3{position: absolute;
-    top: 85%;
-    left: 1%;
-  }
-  h4{position: absolute;
-    top: 85%;
-    left: 40%;
-  }
-  
-  
+}
+h2 {
+  position: absolute;
+  bottom: 81%;
+  right: 1%;
+}
+p {
+  position: absolute;
+  top: 40%;
+  right: 1%;
+}
+h3 {
+  position: absolute;
+  top: 85%;
+  left: 1%;
+}
+h4 {
+  position: absolute;
+  top: 85%;
+  left: 40%;
+}
