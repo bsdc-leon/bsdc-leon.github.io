@@ -1,0 +1,16 @@
+body {
+  font-family: "Rubik Glitch";
+  background-color: black;
+  color: lime;
+  text-align: center;
+}
+h1 {
+  font-size:50px;
+  font-weight: 1;
+}
+a {
+  font-size: 30px;
+  font-weight: 1;
+  color: lime;
+}
+
