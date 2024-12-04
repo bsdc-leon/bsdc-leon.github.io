@@ -1,4 +1,7 @@
 body {
+  background-image: url("");
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: "Rubik Glitch";
   background-color: black;
   color: lime;
